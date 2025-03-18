@@ -1,0 +1,50 @@
+.main1{
+    gap: 30px;
+    display: flex;
+justify-content: space-between;
+}
+img{
+    height: 300px;
+    width: 300px;
+
+}
+
+.box1{
+
+    
+    width: 200px;
+}
+.box2{
+
+    height: 200px;
+    width: 200px;
+}
+.box3{
+    
+    width: 200px;
+}
+.main2{
+display: flex;
+    height: 300px;
+    align-items: center;
+    justify-content: space-around;
+}
+.box4{
+
+width: 200px;
+
+}
+.box5{
+    
+    width: 200px;
+    
+    }
+    .box6{
+        height: 200px;
+        width: 200px;
+ }
+ .main3{
+display: flex;
+justify-content: space-around;
+
+ }
